@@ -1,7 +1,7 @@
 1. install Docker-Desktop and enable wsl integration from 
 settings--> resources--> wsl integration
 2. install minikube
-Download executable from [link to minikube] (https://github.com/kubernetes/minikube/releases/)
+Download executable from [link to minikube](https://github.com/kubernetes/minikube/releases/)
 install minikube using downloaded executable
 3. Create minikube cluster with 1 master and 2 worker
 ```bash
